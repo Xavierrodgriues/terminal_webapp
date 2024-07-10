@@ -96,7 +96,7 @@ const directories = {
             ],
             '',
             '<white>cv</white>',
-            '* <a href="https://www.dropbox.com/scl/fi/8jw6xpsyvb2w93dy40jdb/My-Resume-1.pdf?rlkey=st8rofobjd20054gepd3nxdi4&st=pro80rso&dl=0" download>Download CV</a>'
+            '* <a href="https://drive.google.com/file/d/1FrvNftHJAcooz2xuolJq8t8yMqHeQ2cE/view" download>Download CV</a>'
         ].flat(),
         
 
