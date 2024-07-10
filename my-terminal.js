@@ -47,6 +47,10 @@ const directories = {
                  'Not Available',
                  'Web app where you can book venue for celebrating occations'
                 ],
+                ['Perosnal Portfolio',
+                 'https://prodigy-wd-04-peach.vercel.app/',
+                 'A personal portfolio website'
+                ]
             ].map(([name, url, description = '']) => {
                 return `* <a href="${url}">${name}</a> &mdash; <white>${description}</white>`;
             }),
